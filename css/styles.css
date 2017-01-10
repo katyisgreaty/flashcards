@@ -1,0 +1,13 @@
+ .cards {
+   border: 5px solid green;
+   margin: 15px;
+ }
+
+p {
+  display: none;
+}
+
+.show-it {
+  color: black;
+  background-color: yellow;
+}
